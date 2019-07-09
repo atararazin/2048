@@ -11,7 +11,7 @@ For starters, this will ONLY run in Linux!!!
 
 Download all three executable files: ex2.out, ex2_inp.out, ex2.upd.out. Make sure they are all in the same folder. Then, type
 into the terminal `./ex2.out number` where number is a postive integer that is the runtime (in seconds) of the program. So for instance,
-`./ex2.out 10` will run for 10 seconds, "./ex2.out 100" will run for 100 seconds.
+`./ex2.out 10` will run for 10 seconds, `./ex2.out 100` will run for 100 seconds.
 
 ## How to Play!
 To move up, press W.
